@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693944124131",
+    "project_id": "blog-app-5502b",
+    "storage_bucket": "blog-app-5502b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693944124131:android:fb90542412b9705402bbd6",
+        "android_client_info": {
+          "package_name": "com.techeasesolution.firebaseblogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693944124131-jr9086jn4pj9kqrv1gpdt4il37rum4pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7rLYdxtozx6TTx0kVeMibaZOPg1eTp8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693944124131-jr9086jn4pj9kqrv1gpdt4il37rum4pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
