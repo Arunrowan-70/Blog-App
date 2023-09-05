@@ -1,2 +1,7 @@
 # Firebase Blog App
- This is simple blog app which inlude create you account login and post the blog.
+I built this project using Android studio where user can post blogs, the entire application is powered by Google's Firebase. I use Firebase for Email & password authentication, email generation, Object storage (Images). Overall the application works in real time.
+
+Tool - Android Studio
+Language- Java
+Design - XML
+Cloud & Storage - Google Firebase
